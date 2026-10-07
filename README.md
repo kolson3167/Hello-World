@@ -1,4 +1,4 @@
-# Hello-World	`#0969DA`
+# Hello-World`#0969DA`
 Practicing my first repository -> get to know me a little more!
 
 ## Pictures Included in Sample Files
