@@ -5,4 +5,4 @@ Practicing my first repository
 -Maldives 
 -Book Stack  
 
- ### 1) Maldives [jpeg]. (https://github.com/kolson3167/Hello-World/blob/main/maldives.jpeg)
+ ### 1) Maldives [jpeg](https://github.com/kolson3167/Hello-World/blob/main/maldives.jpeg)
