@@ -6,7 +6,8 @@ Practicing my first repository — **get to know me a little more!**
 
  - Maldives
  
-### 1) [Book Stack](https://github.com/kolson3167/Hello-World/blob/main/book-stack.jpeg) - *Favorite Hobby 📖*\
+### 1) [Book Stack](https://github.com/kolson3167/Hello-World/blob/main/book-stack.jpeg) 
+   *Favorite Hobby 📖*\
     I love reading in my free time and enjoy a variety of genres including contemporary fiction,
     romance, fantasy, mystery, and historical fiction.
 
