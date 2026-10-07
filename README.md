@@ -8,9 +8,9 @@ Practicing my first repository
  
 
 ### 1) [Book Stack](https://github.com/kolson3167/Hello-World/blob/main/book-stack.jpeg)
-
+   *Favorite Hobby📖*
 
 
   
 ### 2) [Maldives](https://github.com/kolson3167/Hello-World/blob/main/maldives.jpeg)
- *Bucket List Destination 🏝️*
+   *Bucket List Destination 🏝️*
