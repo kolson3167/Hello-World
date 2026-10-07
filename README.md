@@ -7,7 +7,7 @@ Practicing my first repository
  -Maldives
  
 
-### 1)[Book Stack](https://github.com/kolson3167/Hello-World/blob/main/book-stack.jpeg)
+### 1) [Book Stack](https://github.com/kolson3167/Hello-World/blob/main/book-stack.jpeg)
 
 
 
