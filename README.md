@@ -1,8 +1,8 @@
 # Hello-World
 Practicing my first repository 
 
- ## Samples Included
- -Maldives Picture
- -Book Stack Picture 
+ ## Pictures Included in Sample Files
+ 1. Maldives 
+ 2. Book Stack  
 
- ### 1) Maldives
+ ### 1) Maldives [
