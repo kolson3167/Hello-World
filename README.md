@@ -1,5 +1,5 @@
-# Hello-World
-Practicing my first repository  (get to know me a little more!)
+# Hello-World	`#0969DA`
+Practicing my first repository -> get to know me a little more!
 
 ## Pictures Included in Sample Files
  - Book Stack 
