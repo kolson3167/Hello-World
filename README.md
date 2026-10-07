@@ -2,7 +2,7 @@
 Practicing my first repository 
 
  ## Pictures Included in Sample Files
- 1. Maldives 
- 2. Book Stack  
+-Maldives 
+-Book Stack  
 
- ### 1) Maldives [
+ ### 1) Maldives [jpeg]. (https://github.com/kolson3167/Hello-World/blob/main/maldives.jpeg)
